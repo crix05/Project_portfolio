@@ -1,0 +1,1 @@
+alert(card_03.png);
